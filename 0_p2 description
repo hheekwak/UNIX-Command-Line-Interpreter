@@ -1,0 +1,13 @@
+
+p2.c
+ 
+Description: The program was a step-by-step project that imitates a simple command line interpreter for our UNIX system - step 2 (Program 2), and several enhancements like pipe line use and dealing with meta characters, "#" and "!" are added - step 3 (Program 4). Before step 2, getword.c (Program 1) was built as preliminary work. getword.c splits and defines a word from input and returns the number of characters of the word. The entire work was part of CS 480 Operating Systems course assignments at San Diego State University. 
+
+It was referred to CS480 Class note and many questions are answered by Professor John Carroll. "https://fascination-euna.tistory.com/201" is consulted for better understanding the concepts.
+
+Other than that, I, Hyunhee Kwak, wrote the code files (p2.c, getword.c, p2.h) myself.
+
+For use of "history" array (for Program assignment 4), intentionally it is used from index 1 to index 9 for convenience: to match the order number - !1, !2, !3 etc. and index). 
+
+Thank you. 
+
