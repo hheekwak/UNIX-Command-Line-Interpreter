@@ -5,7 +5,7 @@ A basic command line interpreter for UNIX, focusing on user input parsing and pr
 Acts as simple command line interpreter for UNIX system. 
 This project is built as course project for CS480 Operating systmes at San Dieo State University under the supervision of Dr. John Carroll. 
 
-### Main fuction
+### Main function
 - prompts input line with handling an emply line, processing the line, or terminating the program
 - handles special metacharacters for redirection, pipelines, printing PID, comments, and escaped character words
 - impleted history mechanism
