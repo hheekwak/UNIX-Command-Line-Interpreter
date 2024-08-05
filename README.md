@@ -6,7 +6,7 @@ Acts as simple command line interpreter for UNIX system.
 This project is built as the course project for CS480 Operating Systems at San Diego State University under the supervision of Dr. John Carroll. 
 
 ### Purpose
-- This project is for understanding general operating systems, using UNIX programming such as fork(), exec(), pipe(), constricting a shell, interprocess communication, and concurrent programming.
+- This project is for understanding general operating systems, using UNIX programming such as fork(), exec(), pipe(), constructing a shell, interprocess communication, and concurrent programming.
 - Throughout this project, I used a basic text editor (Vim) and debugged with gdb (the gnu debugger), which benefitted me in identifying and resolving issues in programs.
 
 ### Main function
